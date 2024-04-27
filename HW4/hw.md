@@ -1,7 +1,12 @@
 Мне не удалось установить SolidDB на свой ПК, я 2 часа искал инсталлятор пробной версии на их сайте, но не нашел. Судя по изученной документации, для взаимодействия с СУБД можно использовать solidDB SQL Editor (solsql) – утилита командной строки.
+![image](https://github.com/turusov/db_hw1/assets/62646493/b7d5f4f7-eeca-40b3-a76f-85ac387d98e2)
+![image](https://github.com/turusov/db_hw1/assets/62646493/fcb06275-b645-4be7-b70b-c5cb83e8acc4)
 
-
-Нужны бинарник и лицензия solid.exe и solid.lic, которых нет. В любом случае, там написано что разворачивать в докере нет особого смысла. 
+Для докера нужны бинарник и лицензия solid.exe и solid.lic, которых собственно не найти. Я зарегался, и писал им что я заинтересован в их продукте, ответа нет. В любом случае, там написано что разворачивать в докере нет особого смысла. 
+![image](https://github.com/turusov/db_hw1/assets/62646493/98e9fa0a-a2ed-4fb4-a10c-8418158bdf7c)
+![soliddb1](https://github.com/turusov/db_hw1/assets/62646493/23b7dc1e-e9a1-47c8-8cff-b4dfd6bd6e8e)
+![soliddb2](https://github.com/turusov/db_hw1/assets/62646493/faecacbc-4b6b-4659-a79e-55efd6a28970)
+![soliddb3](https://github.com/turusov/db_hw1/assets/62646493/c0d5876f-16a5-4cf7-83b3-9f0f1076ab67)
 
 a.	История развития СУБД
 b.	Инструменты для взаимодействия с СУБД
